@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import Logo from "../assets/images/logo_sevres.png" // Chemin vers le logo
 import "tailwindcss/tailwind.css";
 
